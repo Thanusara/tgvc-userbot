@@ -1,5 +1,5 @@
 from pyrogram import Client, idle
-
+[pyrogram]
 api_id = 7266289
 api_hash = "ca5eff21e16301d0f4b02fd649796a2a"
 
